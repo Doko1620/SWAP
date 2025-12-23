@@ -1,0 +1,4 @@
+headwear
+pants
+shoes
+tops
