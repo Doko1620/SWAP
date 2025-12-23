@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923130072556",
+    "firebase_url": "https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "swap-fyp1620",
+    "storage_bucket": "swap-fyp1620.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923130072556:android:6bbf435a37cf3c07b6c4c9",
+        "android_client_info": {
+          "package_name": "com.example.swap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9I0Y8vbrD-wRGy6iAH0M5kr7RRS2BA7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
