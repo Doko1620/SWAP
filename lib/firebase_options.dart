@@ -41,53 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAL4wVGgMRFE4-Iv6FBBDsHfgyRu5e4kp4',
-    appId: '1:923130072556:web:df81207d465f5051b6c4c9',
-    messagingSenderId: '923130072556',
-    projectId: 'swap-fyp1620',
-    authDomain: 'swap-fyp1620.firebaseapp.com',
-    databaseURL: 'https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'swap-fyp1620.firebasestorage.app',
-    measurementId: 'G-QC4R9Z47K0',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    authDomain: 'xxx',
+    databaseURL: 'xxx',
+    storageBucket: 'xxx',
+    measurementId: 'xxx',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB9I0Y8vbrD-wRGy6iAH0M5kr7RRS2BA7M',
-    appId: '1:923130072556:android:6bbf435a37cf3c07b6c4c9',
-    messagingSenderId: '923130072556',
-    projectId: 'swap-fyp1620',
-    databaseURL: 'https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'swap-fyp1620.firebasestorage.app',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    databaseURL: 'xxx',
+    storageBucket: 'xxx',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAFbqmYUgix9Nj9r0kQPYJpjqXbWUvwu5k',
-    appId: '1:923130072556:ios:0ff1ec573d078444b6c4c9',
-    messagingSenderId: '923130072556',
-    projectId: 'swap-fyp1620',
-    databaseURL: 'https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'swap-fyp1620.firebasestorage.app',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    databaseURL: 'xxx',
+    storageBucket: 'xxx',
     iosBundleId: 'com.example.swap',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAFbqmYUgix9Nj9r0kQPYJpjqXbWUvwu5k',
-    appId: '1:923130072556:ios:0ff1ec573d078444b6c4c9',
-    messagingSenderId: '923130072556',
-    projectId: 'swap-fyp1620',
-    databaseURL: 'https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'swap-fyp1620.firebasestorage.app',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    databaseURL: 'xxx',
+    storageBucket: 'xxx',
     iosBundleId: 'com.example.swap',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAL4wVGgMRFE4-Iv6FBBDsHfgyRu5e4kp4',
-    appId: '1:923130072556:web:f509e3bf9b20bf2ab6c4c9',
-    messagingSenderId: '923130072556',
-    projectId: 'swap-fyp1620',
-    authDomain: 'swap-fyp1620.firebaseapp.com',
-    databaseURL: 'https://swap-fyp1620-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'swap-fyp1620.firebasestorage.app',
-    measurementId: 'G-CGRXKW8X8S',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    authDomain: 'xxx',
+    databaseURL: 'xxx',
+    storageBucket: 'xxx',
+    measurementId: 'xxx',
   );
 }
